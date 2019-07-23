@@ -139,22 +139,7 @@ $(function () {
       color: '#0a8583',
       icon: 'icon-biying',
       url: 'https://cn.bing.com/search?q='
-    }, {
-      name: 'GitHub',
-      icon: 'icon-github2',
-      color: '#24292e',
-      url: 'https://github.com/search?utf8=✓&q='
-    }, {
-      name: '好搜',
-      icon: 'icon-sousuo',
-      color: '#f8b616',
-      url: 'https://www.so.com/s?q='
-    }, {
-      name: '搜狗',
-      icon: 'icon-sougou',
-      color: '#fe620d',
-      url: 'https://www.sogou.com/web?query='
-    }, {
+    },  {
       name: '淘宝',
       icon: 'icon-taobao',
       color: '#ec653b',
@@ -170,36 +155,17 @@ $(function () {
       color: '#ff0030',
       url: 'https://list.tmall.com/search_product.htm?q='
     }, {
-      name: '1688',
-      icon: 'icon-icon-test',
-      color: '#ff7300',
-      url: 'https://s.1688.com/selloffer/offer_search.htm?keywords='
-    }, {
-      name: '知乎',
-      icon: 'icon-icon-zhihu',
-      color: '#0078d7',
-      url: 'https://www.zhihu.com/search?type=content&q='
-    }, {
+        name: '豆瓣',
+        icon: 'icon-douban',
+        color: '#03bc11',
+        url: 'https://www.douban.com/search?source=suggest&q='
+    },{
       name: '微博',
       icon: 'icon-weibo',
       color: '#f3131b',
       url: 'https://s.weibo.com/weibo/'
-    }, {
-      name: 'B站',
-      icon: 'icon-bilibili-s',
-      color: '#f45a8d',
-      url: 'http://search.bilibili.com/all?keyword='
-    }, {
-      name: '豆瓣',
-      icon: 'icon-douban',
-      color: '#03bc11',
-      url: 'https://www.douban.com/search?source=suggest&q='
-    }, {
-      name: '优酷',
-      icon: 'icon-youkuwang',
-      color: '#148aff',
-      url: 'https://so.youku.com/search_video/q_'
-    }]
+    }
+    ]
   }
   for (var i = 0; i < search.data.length; i++) {
     var addList = '<li><i class="iconfont ' + search.data[i].icon + '" style="color: ' + search.data[i].color + '"></i>' + search.data[i].name + '</li>'
