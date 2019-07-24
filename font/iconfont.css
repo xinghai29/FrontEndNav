@@ -367,7 +367,7 @@
   content: "\f25f";
 }
 
-.icon-shanchu:before {
+.icon-share:before {
   content: "\e684";
 }
 
@@ -375,11 +375,11 @@
   content: "\e605";
 }
 
-.icon-wumoxing:before {
+.icon-information:before {
   content: "\ec33";
 }
 
-.icon-xiaoxitongzhi:before {
+.icon-projectHelp:before {
   content: "\ec35";
 }
 

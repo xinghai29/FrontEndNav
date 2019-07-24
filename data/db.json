@@ -1,164 +1,188 @@
 [
-  {
-    "Category_id": "baseLearn",
-    "category_CN": "安捷汇对外网站",
-    "category_icon": "icon-xuexi",
-    "category_item": "baseLearnItem",
-    "item_children": [
-      {
-        "child_name": "安捷汇低温设备管控平台",
-        "img_src": "./img/低温管控.png",
-        "a_href": "http://www.idatatank.com/#/login/",
-        "child_desc": "安捷汇低温设备管控平台"
-      },
-	  {
-        "child_name": "安捷汇维保管理平台",
-        "img_src": "./img/维保.png",
-        "a_href": "http://weibao.51ajh.com/",
-        "child_desc": "安捷汇维保管理平台"
-      },
-	  {
-        "child_name": "安捷汇设备商城",
-        "img_src": "./img/商城.png",
-        "a_href": "http://mall.51ajh.com/",
-        "child_desc": "安捷汇设备商城"
-      },
-	  {
-        "child_name": "安捷汇迷你首页",
-        "img_src": "./img/迷你.png",
-        "a_href": "http://m.51ajh.com/",
-        "child_desc": "安捷汇迷你首页"
-      },
-	  {
-        "child_name": "安捷汇微信公众号",
-        "img_src": "./img/微信公众号.png",
-        "a_href": "",
-        "child_desc": "安捷汇微信公众号"
-      },
-	  {
-        "child_name": "安捷汇点供站系统",
-        "img_src": "./img/Hulkye.png",
-        "a_href": "http://39.98.175.192:88/login/index.html",
-        "child_desc": "安捷汇点供站系统"
-      },
-      {
-        "child_name": "菜鸟教程",
-        "img_src": "./img/runoob.png",
-        "a_href": "http://www.runoob.com/",
-        "child_desc": "菜鸟教程,提供了编程的基础技术教程.学的不仅是技术，更是梦想！"
-      },
-      {
-        "child_name": "w3school",
-        "img_src": "./img/w3school.png",
-        "a_href": "http://www.w3school.com.cn/",
-        "child_desc": "w3school 在线教程 , 全球最大的中文 Web 技术教程。"
-      },
-      {
-        "child_name": "百度前端技术学院",
-        "img_src": "./img/ifebaidu.png",
-        "a_href": "http://ife.baidu.com/",
-        "child_desc": "百度前端技术学院是一个为大学生创办的免费的前端技术实践、分享、交平台。"
-      },
-      {
-        "child_name": "W3-Help",
-        "img_src": "./img/w3help.png",
-        "a_href": "http://www.w3help.org/zh-cn/kb",
-        "child_desc": "系统的介绍某些知识点，帮助开发者正确理解该知识点的概念及与其他知识点的关联性，梳理知识体系。"
-      },
-      {
-        "child_name": "前端开发者手册",
-        "img_src": "./img/frontenddevhandbook.png",
-        "a_href": "https://dwqs.gitbooks.io/frontenddevhandbook/content/",
-        "child_desc": "这是任何人都可以用来学习前端的实践手册, 它概述并讨论了前端工程的实践。"
-      },
-      {
-        "child_name": "前端笔记本",
-        "img_src": "./img/frontend-notebook.png",
-        "a_href": "https://li-xinyang.gitbooks.io/frontend-notebook/content/?q=",
-        "child_desc": "《前端笔记本》涵盖了 Web 前端开发所需的全部基本知识以及所对应的学习路径。"
-      },
-      {
-        "child_name": "表严肃-不要水，讲干货",
-        "img_src": "./img/biaoyansu.png",
-        "a_href": "http://biaoyansu.com/",
-        "child_desc": "基础教程视频,B站良心up主,满满的干货."
-      },
-      {
-        "child_name": "scriptoj",
-        "img_src": "./img/scriptoj.png",
-        "a_href": "http://scriptoj.mangojuice.top/",
-        "child_desc": "国人开发的前端题库，可以用作评测系统，带有讨论区"
-      },
-      {
-        "child_name": "如何跟上前端开发的最新前沿",
-        "img_src": "./img/frontendrescue.png",
-        "a_href": "https://uptodate.frontendrescue.org/zh/",
-        "child_desc": "如何跟上前端开发的最新前沿 前端开发 - The Recipe"
-      },
-      {
-        "child_name": "HEAD",
-        "img_src": "./img/head.png",
-        "a_href": "https://github.com/joshbuchea/HEAD",
-        "child_desc": "最全的 head 列表，真心佩服这种偏执的整理能力"
-      }
-    ]
-  },
-  {
-    "Category_id": "download",
-    "category_CN": "安捷汇下载地址",
-    "category_icon": "icon-download",
-    "category_item": "downloadItem",
-    "item_children": [
-      {
-        "child_name": "安捷汇APP-Android",
-        "img_src": "./img/安捷汇APP.png",
-        "a_href": "http://www.pgyer.com/7e939596d448bb3c7f804f2938ef1cea",
-        "child_desc": "安捷汇APP-Android"
-      },
-	  {
-        "child_name": "安捷汇APP-IOS",
-        "img_src": "./img/安捷汇APP.png",
-        "a_href": "http://www.pgyer.com/7e939596d448bb3c7f804f2938ef1cea",
-        "child_desc": "安捷汇APP-IOS"
-      },
-	  {
-        "child_name": "槽车-Android",
-        "img_src": "./img/安捷汇APP.png",
-        "a_href": "https://www.pgyer.com/VhIV",
-        "child_desc": "槽车-Android"
-      },
-	  {
-        "child_name": "易用气-Android",
-        "img_src": "./img/易用气.png",
-        "a_href": "https://www.pgyer.com/V4tY",
-        "child_desc": "易用气-IOS"
-      },
-	  {
-        "child_name": "易用气-IOS",
-        "img_src": "./img/易用气.png",
-        "a_href": "https://www.pgyer.com/yoS3",
-        "child_desc": "易用气-IOS"
-      }
-    ]
-  },
-   {
-    "Category_id": "manage",
-    "category_CN": "安捷汇管理网站",
-    "category_icon": "icon-manage",
-    "category_item": "manageItem",
-    "item_children": [
-      {
-        "child_name": "SMS行业专用平台",
-        "img_src": "./img/Hulkye.png",
-        "a_href": "http://www.zthysms.com/home",
-        "child_desc": "短信管理"
-      },
-	  {
-        "child_name": "物联网卡平台",
-        "img_src": "./img/Hulkye.png",
-        "a_href": "http://www.tibiot.cn/login",
-        "child_desc": "物联网卡平台"
-      }
-    ]
-  }
+	{
+		"Category_id": "baseLearn",
+		"category_CN": "安捷汇对外网站",
+		"category_icon": "icon-xuexi",
+		"category_item": "baseLearnItem",
+		"item_children": [
+			{
+				"child_name": "安捷汇官网",
+				"img_src": "./img/安捷汇官网.png",
+				"a_href": "http://www.51ajh.com/",
+				"child_desc": "安捷汇物联信息（苏州）有限公司"
+			},
+			{
+				"child_name": "安捷汇低温设备管控平台",
+				"img_src": "./img/低温管控.png",
+				"a_href": "http://www.idatatank.com/#/login/",
+				"child_desc": "安捷汇低温设备管控平台"
+			},
+			{
+				"child_name": "安捷汇维保管理平台",
+				"img_src": "./img/维保.png",
+				"a_href": "http://weibao.51ajh.com/",
+				"child_desc": "安捷汇维保管理平台"
+			},
+			{
+				"child_name": "安捷汇设备商城",
+				"img_src": "./img/商城.png",
+				"a_href": "http://mall.51ajh.com/",
+				"child_desc": "安捷汇设备商城"
+			},
+			{
+				"child_name": "安捷汇迷你首页",
+				"img_src": "./img/迷你.png",
+				"a_href": "http://m.51ajh.com/",
+				"child_desc": "安捷汇迷你首页"
+			},
+			{
+				"child_name": "安捷汇微信公众号",
+				"img_src": "./img/微信公众号.png",
+				"a_href": "",
+				"child_desc": "安捷汇微信公众号"
+			},
+			{
+				"child_name": "安捷汇点供站系统",
+				"img_src": "./img/Hulkye.png",
+				"a_href": "http://39.98.175.192:88/login/index.html",
+				"child_desc": "安捷汇点供站系统"
+			},
+			{
+				"child_name": "易用气系统",
+				"img_src": "./img/易用气WEB.png",
+				"a_href": "http://yyq.qdlng.cn",
+				"child_desc": "中海油LNG多式联运及终端服务系统"
+			},
+			{
+				"child_name": "易用气基础平台管理系统",
+				"img_src": "./img/易用气WEB.png",
+				"a_href": "http://yyq.qdlng.cn:484/",
+				"child_desc": "易用气基础平台管理系统"
+			}
+		]
+	},
+	{
+		"Category_id": "download",
+		"category_CN": "安捷汇下载地址",
+		"category_icon": "icon-download",
+		"category_item": "downloadItem",
+		"item_children": [
+			{
+				"child_name": "安捷汇APP-Android",
+				"img_src": "./img/安捷汇APP.png",
+				"a_href": "http://www.pgyer.com/7e939596d448bb3c7f804f2938ef1cea",
+				"child_desc": "安捷汇APP-Android"
+			},
+			{
+				"child_name": "安捷汇APP-IOS",
+				"img_src": "./img/安捷汇APP.png",
+				"a_href": "http://www.pgyer.com/7e939596d448bb3c7f804f2938ef1cea",
+				"child_desc": "安捷汇APP-IOS"
+			},
+			{
+				"child_name": "槽车-Android",
+				"img_src": "./img/安捷汇APP.png",
+				"a_href": "https://www.pgyer.com/VhIV",
+				"child_desc": "槽车-Android"
+			},
+			{
+				"child_name": "易用气-Android",
+				"img_src": "./img/易用气APP.png",
+				"a_href": "https://www.pgyer.com/V4tY",
+				"child_desc": "易用气-IOS"
+			},
+			{
+				"child_name": "易用气-IOS",
+				"img_src": "./img/易用气APP.png",
+				"a_href": "https://www.pgyer.com/yoS3",
+				"child_desc": "易用气-IOS"
+			}
+		]
+	},
+	{
+		"Category_id": "manage",
+		"category_CN": "安捷汇管理网站",
+		"category_icon": "icon-manage",
+		"category_item": "manageItem",
+		"item_children": [
+			{
+				"child_name": "SMS行业专用平台",
+				"img_src": "./img/Hulkye.png",
+				"a_href": "http://www.zthysms.com/home",
+				"child_desc": "短信管理"
+			},
+			{
+				"child_name": "物联网卡平台",
+				"img_src": "./img/Hulkye.png",
+				"a_href": "http://www.tibiot.cn/login",
+				"child_desc": "物联网卡平台"
+			},
+			{
+				"child_name": "安捷汇官网管理界面平台",
+				"img_src": "./img/安捷汇官网.png",
+				"a_href": "http://admin.51ajh.com/admin/login",
+				"child_desc": "安捷汇官网管理界面平台"
+			}
+		]
+	},
+	{
+		"Category_id": "projectHelp",
+		"category_CN": "项目开发辅助网站",
+		"category_icon": "icon-projectHelp",
+		"category_item": "projectHelpItem",
+		"item_children": [
+			{
+				"child_name": "蒲公英",
+				"img_src": "./img/蒲公英.png",
+				"a_href": "https://www.tracup.com/cloud/#/projects",
+				"child_desc": "团队协作，问题跟踪系统"
+			},
+			{
+				"child_name": "禅道",
+				"img_src": "./img/zentao.png",
+				"a_href": "http://zentao.51ajh.com:85/zentao",
+				"child_desc": "安捷汇重构管理软件"
+			}
+		]
+	},
+	{
+		"Category_id": "information",
+		"category_CN": "行业资讯",
+		"category_icon": "icon-information",
+		"category_item": "informationItem",
+		"item_children": [
+			{
+				"child_name": "第三届中集安瑞科新产品发布会暨用户座谈会隆重召开 ",
+				"img_src": "./img/info1.png",
+				"a_href": "http://www.sohu.com/a/253096680_174505",
+				"child_desc": "第三届中集安瑞科新产品发布会暨用户座谈会隆重召开"
+			},
+			{
+				"child_name": "LNG罐箱掀起订购热潮 ",
+				"img_src": "./img/info2.png",
+				"a_href": "http://www.sohu.com/a/258732572_800688",
+				"child_desc": "港能头条 | LNG罐箱掀起订购热潮"
+			}
+		]
+	},
+	{
+		"Category_id": "share",
+		"category_CN": "优秀网站分享",
+		"category_icon": "icon-share",
+		"category_item": "shareItem",
+		"item_children": [
+			{
+				"child_name": "程序员在在线工具",
+				"img_src": "./img/IT.png",
+				"a_href": "https://tool.lu/",
+				"child_desc": "程序员在在线工具"
+			},
+			{
+				"child_name": "CG素材共享网站 ",
+				"img_src": "./img/cg.png",
+				"a_href": "https://www.cgchina.net/",
+				"child_desc": "CG素材共享"
+			}
+		]
+	}
 ]
