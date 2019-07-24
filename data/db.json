@@ -9,25 +9,25 @@
 				"child_name": "安捷汇官网",
 				"img_src": "./img/安捷汇官网.png",
 				"a_href": "http://www.51ajh.com/",
-				"child_desc": "安捷汇物联信息（苏州）有限公司"
+				"child_desc": "安捷汇物联信息（苏州）有限公司,是国内领先的能源化工行业物联网及信息服务供应商。 "
 			},
 			{
 				"child_name": "安捷汇低温设备管控平台",
 				"img_src": "./img/低温管控.png",
 				"a_href": "http://www.idatatank.com/#/login/",
-				"child_desc": "安捷汇低温设备管控平台"
+				"child_desc": "安捷汇低温设备管控平台,为能源化工企业运营管理提供高效、智能、安全的产品服务"
 			},
 			{
 				"child_name": "安捷汇维保管理平台",
 				"img_src": "./img/维保.png",
 				"a_href": "http://weibao.51ajh.com/",
-				"child_desc": "安捷汇维保管理平台"
+				"child_desc": "安捷汇维保管理平台，提供设备维修保养、零配件更换、车罐站运管管理外包等服务"
 			},
 			{
 				"child_name": "安捷汇设备商城",
 				"img_src": "./img/商城.png",
 				"a_href": "http://mall.51ajh.com/",
-				"child_desc": "安捷汇设备商城"
+				"child_desc": "安捷汇设备商城，提供设备购买租赁，电子商城等服务"
 			},
 			{
 				"child_name": "安捷汇迷你首页",
@@ -38,7 +38,7 @@
 			{
 				"child_name": "安捷汇微信公众号",
 				"img_src": "./img/微信公众号.png",
-				"a_href": "",
+				"a_href": "http://web.51ajh.com/img/%E5%AE%89%E6%8D%B7%E6%B1%87%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.png",
 				"child_desc": "安捷汇微信公众号"
 			},
 			{
