@@ -8,7 +8,7 @@ body {
 
 .container,
 .main {
-  background-color: #f3f6f8;
+  background: #f3f6f8 url('./../img/background.jpg') no-repeat fixed center;
 }
 
 @media (min-width: 481px) {
