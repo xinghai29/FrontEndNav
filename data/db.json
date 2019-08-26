@@ -9,12 +9,12 @@
 				"child_name": "安捷汇官网",
 				"img_src": "./img/安捷汇官网.png",
 				"a_href": "http://www.51ajh.com/",
-				"child_desc": "安捷汇物联信息（苏州）有限公司,是国内领先的能源化工行业物联网及信息服务供应商。 "
+				"child_desc": "安捷汇物联信息（苏州）有限公司,是国内领先的能源化工行业物联网及信息服务供应商。安捷汇物联信息（苏州）有限公司,是国内领先的能源化工行业物联网及信息服务供应商。 "
 			},
 			{
 				"child_name": "安捷汇低温设备管控平台",
 				"img_src": "./img/低温管控.png",
-				"a_href": "http://www.idatatank.com/#/login/",
+				"a_href": "http://www.idatatank.com/#/login",
 				"child_desc": "安捷汇低温设备管控平台,为能源化工企业运营管理提供高效、智能、安全的产品服务"
 			},
 			{
@@ -33,7 +33,7 @@
 				"child_name": "安捷汇迷你首页",
 				"img_src": "./img/迷你.png",
 				"a_href": "http://m.51ajh.com/",
-				"child_desc": "安捷汇迷你首页"
+				"child_desc": "安捷汇迷你首页，主要用于微信公众号打开主页使用"
 			},
 			{
 				"child_name": "安捷汇微信公众号",
@@ -68,16 +68,28 @@
 		"category_item": "downloadItem",
 		"item_children": [
 			{
-				"child_name": "安捷汇APP-Android",
+				"child_name": "安捷汇V2.0-Android",
 				"img_src": "./img/安捷汇APP.png",
 				"a_href": "http://www.pgyer.com/7e939596d448bb3c7f804f2938ef1cea",
-				"child_desc": "安捷汇APP-Android"
+				"child_desc": "安捷汇V2.0-Android"
 			},
 			{
-				"child_name": "安捷汇APP-IOS",
+				"child_name": "安捷汇V2.0-IOS",
 				"img_src": "./img/安捷汇APP.png",
 				"a_href": "http://www.pgyer.com/7e939596d448bb3c7f804f2938ef1cea",
-				"child_desc": "安捷汇APP-IOS"
+				"child_desc": "安捷汇V2.0-IOS"
+			},
+			{
+				"child_name": "安捷汇V2.5-Android",
+				"img_src": "./img/安捷汇APP.png",
+				"a_href": "https://www.pgyer.com/Jd54",
+				"child_desc": "安捷汇V2.5-Android"
+			},
+			{
+				"child_name": "安捷汇V2.5-IOS",
+				"img_src": "./img/安捷汇APP.png",
+				"a_href": "https://www.pgyer.com/zoll",
+				"child_desc": "安捷汇V2.5-IOS"
 			},
 			{
 				"child_name": "槽车-Android",
@@ -89,12 +101,24 @@
 				"child_name": "易用气-Android",
 				"img_src": "./img/易用气APP.png",
 				"a_href": "https://www.pgyer.com/V4tY",
-				"child_desc": "易用气-IOS"
+				"child_desc": "易用气-Android"
 			},
 			{
 				"child_name": "易用气-IOS",
 				"img_src": "./img/易用气APP.png",
 				"a_href": "https://www.pgyer.com/yoS3",
+				"child_desc": "易用气-IOS"
+			},
+			{
+				"child_name": "易用气流量计-Android",
+				"img_src": "./img/易用气APP.png",
+				"a_href": "https://www.pgyer.com/7oNu",
+				"child_desc": "易用气-Android"
+			},
+			{
+				"child_name": "易用气流量计-IOS",
+				"img_src": "./img/易用气APP.png",
+				"a_href": "https://www.pgyer.com/UcFD",
 				"child_desc": "易用气-IOS"
 			}
 		]
